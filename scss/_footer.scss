@@ -8,6 +8,11 @@
 		}
 	}
 }
+.hover:hover{
+  .static:hover {
+  opacity:0;
+}
+}
 .footer_area {
 	padding: 120px 0;
 	position: relative;
